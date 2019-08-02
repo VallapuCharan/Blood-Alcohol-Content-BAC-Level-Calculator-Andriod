@@ -16,5 +16,4 @@ a. A = liquid ounces of alcohol consumed = ounces * alcohol percentage (i.e. 5 x
 15)
 b. W = a person’s weight in pounds
 c. r = a gender constant of alcohol distribution (.68 for men and .55 for women)
-d. More information on calculating BAC can found here: http://www.teamdui.com/
-bac-widmarks-formula/
+d. More information on calculating BAC can found here: http://www.teamdui.com/bac-widmarks-formula/

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">group15_hw1</string>
+    <string name="weight">Weight (lbs)</string>
+    <string name="weightValue">Enter Weight</string>
+    <string name="saveWeight">Save</string>
+    <string name="drinkSize">Drink Size</string>
+    <string name="oneounce">1 oz</string>
+    <string name="fiveounce">5 oz</string>
+    <string name="twelveounce">12 oz</string>
+    <string name="alcoholPer">%</string>
+    <string name="alcoholPerc">Alcohol %</string>
+    <string name="addDrink">Add Drink</string>
+    <string name="reset">Reset</string>
+    <string name="bac">BAC Level: 0.00 </string>
+    <string name="yourStatus">Your Status:</string>
+    <string name="yourStatusValue"> You\'re safe </string>
+    <string name="your_status">Your Status:</string>
+    <string name="safe_status">You are Safe</string>
+    <string name="careful_status">Be Careful...</string>
+    <string name="overlimit_status">Over the limit!</string>
+    <string name="female">F</string>
+    <string name="male">M</string>
+    <string name="bacDisplay">BAC Level:</string>
+    <string name="genderText">Gender</string>
+</resources>
+    <!-- Assignment : Homework 1
+       File name  : group15_hw1.zip
+       Full names : Manideep Reddy Nukala, Sai Charan Reddy Vallapureddy -->

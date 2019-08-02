@@ -1,4 +1,4 @@
-# Blood-Alcohol-Content-BAC-Level-Calculator-Andriod
+# Blood-Alcohol-Content-BAC-Level-Calculator-Android
 
 Inputs:
 1. weight
